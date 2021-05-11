@@ -1,5 +1,5 @@
 ---
-title: Showing an overview of your activity on your profile
+title: Showing an overview of your activity on your profile 0xef3cebd77e0c52cb6f60875d9306397b5caca375 
 intro: You can enable the activity overview section on your profile to give viewers more context about the types of contributions you make.
 redirect_from:
   - /articles/showing-an-overview-of-your-activity-on-your-profile
